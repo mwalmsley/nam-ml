@@ -38,14 +38,12 @@ Note that this timetable is not published and is subject to change by the NAM or
 
 We will published a detailed timetable once abstracts have been recieved, accepted, and confirmed.
 
-## Other Sessions
 
-
-
-## Organisers
-
-Techniques2 is proposed by Thomas Killestein. The organising committee is David Armstrong, Eliot Ayache, Joe Lyman, Azib Norazman, and Catarina Sampaio Alves.
-
-Techniques3 is proposed by Mike Walmsley. The organising committee is Ashley Spindler, Anna Scaife, Chris Lintott, and Ting-Yun Cheng.
+## Contact
 
 Please reach out to the proposers if you have any questions, ideas, or feedback.
+
+Techniques2 is proposed by Thomas Killestein ([email](emailto:t.killestein@warwick.ac.uk), [website](https://warwick.ac.uk/fac/sci/physics/research/astro/people/thomaskillestein)). The organising committee is David Armstrong, Eliot Ayache, Joe Lyman, Azib Norazman, and Catarina Sampaio Alves.
+
+Techniques3 is proposed by Mike Walmsley ([email](emailto:michael.walmsley@manchester.ac.uk), [website](https://walmsley.dev/)). The organising committee is Ashley Spindler, Anna Scaife, Chris Lintott, and Ting-Yun Cheng.
+
