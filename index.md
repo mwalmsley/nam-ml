@@ -33,7 +33,7 @@ We will published a detailed timetable once abstracts have been recieved, accept
 
 Please reach out to the proposers if you have any questions, ideas, or feedback.
 
-Techniques2 is proposed by Thomas Killestein ([email](emailto:t.killestein@warwick.ac.uk), [website](https://warwick.ac.uk/fac/sci/physics/research/astro/people/thomaskillestein)). The organising committee is David Armstrong, Eliot Ayache, Joe Lyman, Azib Norazman, and Catarina Sampaio Alves.
+Techniques2 is proposed by Thomas Killestein ([email](emailto:t.killestein@warwick.ac.uk), [website](https://warwick.ac.uk/fac/sci/physics/research/astro/people/thomaskillestein)). The organising committee is David Armstrong, Eliot Ayache, Joe Lyman, and Azib Norazman.
 
 Techniques3 is proposed by Mike Walmsley ([email](emailto:michael.walmsley@manchester.ac.uk), [website](https://walmsley.dev/)). The organising committee is Ashley Spindler, Anna Scaife, Chris Lintott, and Ting-Yun Cheng.
 
