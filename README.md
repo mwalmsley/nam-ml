@@ -1,8 +1,11 @@
 # NAM 2022 - ML sessions (Wed/Thur)
 Convenient static website sharing details on the NAM 2022 ML special sessions
+- Session Location: [Social Sciences](http://campus-cms.warwick.ac.uk/share/872acbbad9752bf58e4a5e3be2dd82ad) --- [Room S0.11](https://theta360.com/s/cCEqLppMmQ9eEYx8xXQbHndlQ) (Ground Floor; [annoated campus map](https://drive.google.com/file/d/1VKFuRkjLWJAlNgjQUU6VqrXfbyIzsuFk/view))
+- Virtual links?
 
-## Wednesday (13 July) 16:30-18:00 (zoom link?)
+## Wednesday (13 July) 16:30-18:00
 ### [Machine Learning in Modern Astronomy: Learning and Interpreting the Data Driven Universe](https://nam2022.org/science/parallel-sessions/details/2/170)
+Organisers: [Tom Killestein](mailto:T.Killestein@warwick.ac.uk), David Armstrong, Eliot Ayache, Joe Lyman, Azib Norazman, Catarina Sampaio Alves
 
 <table>
   <tr>
@@ -64,9 +67,11 @@ Convenient static website sharing details on the NAM 2022 ML special sessions
   </tr>
 </table>
 
+<br>
 
 ## Thursday (14 July) 14:30-16:00
 ### [The Future of Machine Learning in Astronomy](https://nam2022.org/science/parallel-sessions/details/2/171)
+Organisers: [Mike Walmsley](mailto:michael.walmsley@manchester.ac.uk), Ashley Spindler, Anna Scaife, Chris Lintott, Ting-Yun Cheng
 
 <table>
   <tr>
