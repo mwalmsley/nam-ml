@@ -22,10 +22,10 @@ For reference, you can review the original abstract submission instructions [her
 
 The draft NAM 2022 schedule suggests the following session times:
 
-- Techniques2 on [Wednesday](https://github.com/mwalmsley/nam-ml/edit/gh-pages/index.md#wednesday-13-july-1630-1800) at 16:30-18:00
-- Techniques3 on [Thursday](https://github.com/mwalmsley/nam-ml/edit/gh-pages/index.md#thursday-14-july-1430-1600) at 14:30-16:00
+- Techniques2 on [Wednesday](#wednesday) at 16:30-18:00
+- Techniques3 on [Thursday](#thursday) at 14:30-16:00
 
-### Wednesday (13 July) 16:30-18:00
+### Wednesday 
 #### Technique2: Machine Learning in Modern Astronomy: Learning and Interpreting the Data Driven Universe
 
 - 16:30-16:35 \-\- Thomas Killestein \-\- **Introduction**
@@ -56,7 +56,7 @@ The draft NAM 2022 schedule suggests the following session times:
 
 - 17:50-18:00 \-\- **Discussion**
 
-### Thursday (14 July) 14:30-16:00
+### Thursday
 #### Technique3: The Future of Machine Learning in Astronomy
 
 - 14:30-14:35 \-\- Michael Walmsley \-\- **Introduction**
