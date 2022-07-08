@@ -1,5 +1,5 @@
 ## NAM 2022 - ML sessions
-### Session Location: [Social Sciences](http://campus-cms.warwick.ac.uk/share/872acbbad9752bf58e4a5e3be2dd82ad) --- [Room S0.11](https://theta360.com/s/cCEqLppMmQ9eEYx8xXQbHndlQ) (Ground Floor; [annoated campus map](https://drive.google.com/file/d/1VKFuRkjLWJAlNgjQUU6VqrXfbyIzsuFk/view))
+#### Session Location: [Social Sciences](http://campus-cms.warwick.ac.uk/share/872acbbad9752bf58e4a5e3be2dd82ad) --- [Room S0.11](https://theta360.com/s/cCEqLppMmQ9eEYx8xXQbHndlQ) (Ground Floor; [annoated campus map](https://drive.google.com/file/d/1VKFuRkjLWJAlNgjQUU6VqrXfbyIzsuFk/view))
 
 We are jointly organising two Parallel Sessions to discuss how machine learning supports our science and how we might overcome the challenges it now faces. The [timetable](#timetable) is available below.
 
@@ -22,8 +22,8 @@ For reference, you can review the original abstract submission instructions [her
 
 The draft NAM 2022 schedule suggests the following session times:
 
-- Techniques2 on [Wednesday](https://github.com/mwalmsley/nam-ml/edit/gh-pages/index.md#wednesday-13-july-1630-1800) at 16:30-18:00
-- Techniques3 on [Thursday](https://github.com/mwalmsley/nam-ml/edit/gh-pages/index.md#thursday-14-july-1430-1600) at 14:30-16:00
+- Techniques2 on Wednesday at 16:30-18:00
+- Techniques3 on Thursday at 14:30-16:00
 
 ### Wednesday (13 July) 16:30-18:00
 #### Technique2: Machine Learning in Modern Astronomy: Learning and Interpreting the Data Driven Universe
