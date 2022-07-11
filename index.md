@@ -1,5 +1,5 @@
 ## NAM 2022 - ML sessions
-### Session Location: [Social Sciences](http://campus-cms.warwick.ac.uk/share/872acbbad9752bf58e4a5e3be2dd82ad) --- [Room S0.11](https://theta360.com/s/cCEqLppMmQ9eEYx8xXQbHndlQ) (Ground Floor; [annoated campus map](https://drive.google.com/file/d/1VKFuRkjLWJAlNgjQUU6VqrXfbyIzsuFk/view))
+### Session Location: [Social Sciences](http://campus-cms.warwick.ac.uk/share/872acbbad9752bf58e4a5e3be2dd82ad) --- [Room S0.11](https://theta360.com/s/cCEqLppMmQ9eEYx8xXQbHndlQ) (Ground Floor; [annotated campus map](https://drive.google.com/file/d/1VKFuRkjLWJAlNgjQUU6VqrXfbyIzsuFk/view))
 
 We are jointly organising two Parallel Sessions to discuss how machine learning supports our science and how we might overcome the challenges it now faces. The [timetable](#timetable) is available below.
 
@@ -13,9 +13,6 @@ Techniques3 focuses on the challenges such methods face and their speculative so
 ## Abstract Submission
 
 Abstract submission is now **closed**. We recieved 44 abstracts across both sessions (2x 1.5 hours). We look forward to seeing your work at NAM 2022!
-
-Given the sessions' popularity, we will only be considering late abstracts in exceptional circumstances (e.g. personal emergency). Please write to the organisers (see [Contact](#contact)) with a brief explanation if you would like to submit a late abstract. Do NOT include the abstract itself.
-
 For reference, you can review the original abstract submission instructions [here](abstract_submission_reference.md).
 
 ## Timetable
